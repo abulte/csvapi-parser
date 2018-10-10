@@ -39,8 +39,8 @@ tests_require = pip('test.pip')
 
 setup(
     name='csvapi-parser',
-    version=__import__('csvapi_parser').__version__,
-    description=__import__('csvapi_parser').__description__,
+    version='0.1.0.dev',
+    description='CSV parser (for csvapi)',
     long_description=long_description,
     url='https://github.com/opendatateam/csvapi-parser',
     author='Open Data Team',

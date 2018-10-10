@@ -9,9 +9,6 @@ import cchardet as chardet
 import csv
 import logging
 
-__version__ = '0.1.0.dev'
-__description__ = 'CSV parser for csvapi'
-
 
 log = logging.getLogger(__name__)
 block_size = 10

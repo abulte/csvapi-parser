@@ -1,2 +1,2 @@
-agate
-cchardet
+agate==1.6.1
+cchardet==2.1.4
